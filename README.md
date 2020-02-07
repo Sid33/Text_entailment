@@ -9,4 +9,5 @@ It is beleived that the problem statement to have negative inclination and hence
 ALLENNLP TEXT ENTAILMENT is used to group together the problem Statements.We then treat group elements 
 
 ALLENNLP Sentiment Analysis is used to label the groups as postive or negative.
+
 ThreadPoolExecutor is also used to have parallel processing.
